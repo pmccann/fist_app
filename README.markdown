@@ -5,6 +5,6 @@ Just what is sounds like: Lorem ipsum dolor sit amet, consectetur adipisicing el
 	cd ~/Dropbox/rails/projecs/fist.app
 	mate .
 
-Start editing. In iterm it's a simple 	`pro` to get there. 
+Start editing. In iterm it's a simple `pro` to get there. Check the scm integration now.
 
 [*Ruby on Rails Tutorial*](http://railstutorial.org) if you want to see the thing in html.
