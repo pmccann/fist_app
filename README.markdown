@@ -8,3 +8,5 @@ Just what is sounds like: Lorem ipsum dolor sit amet, consectetur adipisicing el
 Start editing. In iterm it's a simple `pro` to get there. Check the scm integration now.
 
 [*Ruby on Rails Tutorial*](http://railstutorial.org) if you want to see the thing in html.
+
+OK, but where's the notes about the heroku version and so forth? Hmm. Wednesday, 16 May, 2012.
